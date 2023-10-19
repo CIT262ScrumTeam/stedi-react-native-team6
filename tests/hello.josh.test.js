@@ -1,4 +1,4 @@
-import sayHello from '../hello.josh.js';
+import sayHello from '../utils/hello.josh.js';
 import assert from 'assert';
 
 it("Test Hello Worlld", ()=> {
